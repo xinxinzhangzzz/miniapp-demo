@@ -1,0 +1,62 @@
+/* 轮播图 */
+.swiper,
+.swiper image {
+  width: 750rpx;
+  height: 350rpx;
+}
+
+/* 乐园活动 */
+.title-section {
+  margin: 28rpx 0 21rpx 43rpx;
+  font-size: 32rpx;
+  color: #333;
+  font-weight: bold;
+}
+
+.activity .img {
+  width: 750rpx;
+  height: 388rpx;
+}
+
+.desc {
+  margin: 30rpx 34rpx 16rpx 36rpx;
+  font-size: 30rpx;
+  font-weight: bold;
+}
+
+.btn {
+  margin-left: 36rpx;
+  margin-bottom: 28rpx;
+  background-color: #FFC64B;
+  width: 86rpx;
+  height: 42rpx;
+  font-size: 24rpx;
+  text-align: center;
+  line-height: 42rpx;
+  color: #fff;
+  border-radius: 8rpx;
+}
+
+.section {
+  display: flex;
+  align-items: center;
+  font-size: 24rpx;
+  color: rgba(0,0,0,0.50);
+  line-height: 32rpx;
+}
+
+.count-section, .start-section {
+  display: flex;
+  margin-left: 36rpx;
+}
+
+.count-section .count-icon,
+.start-section .start-icon {
+  width: 28rpx;
+  height: 28rpx; 
+  margin-right: 8rpx;
+}
+
+.item2 {
+  margin-top: 40rpx;
+}

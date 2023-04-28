@@ -1,0 +1,71 @@
+<!-- 轮播图 -->
+<view>
+  <swiper class="swiper" indicator-dots indicator-active-color="#f00" autoplay circular>
+    <swiper-item>
+      <image src="https://yjy-teach-oss.oss-cn-beijing.aliyuncs.com/miniapp/slider.png"/>
+    </swiper-item>
+
+    <swiper-item>
+      <image src="https://yjy-teach-oss.oss-cn-beijing.aliyuncs.com/miniapp/slider.png"/>
+    </swiper-item>
+
+    <swiper-item>
+      <image src="https://yjy-teach-oss.oss-cn-beijing.aliyuncs.com/miniapp/slider.png"/>
+    </swiper-item>
+
+    <swiper-item>
+      <image src="https://yjy-teach-oss.oss-cn-beijing.aliyuncs.com/miniapp/slider.png"/>
+    </swiper-item>
+  </swiper>
+</view>
+
+<!-- 乐园活动区域 -->
+<view class="title-section">乐园活动</view>
+<view class="activity">
+  <image class="img" src="https://yjy-teach-oss.oss-cn-beijing.aliyuncs.com/miniapp/slider.png"/>
+  <view class="desc">疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</view>
+  <view class="btn">免费</view>
+
+  <view class="section">
+    <view class="count-section">
+      <image class="count-icon" src="https://yjy-teach-oss.oss-cn-beijing.aliyuncs.com/miniapp/slider.png" />
+      <text class="count">200人已报名</text>
+    </view>
+    <view class="start-section">
+      <image src="https://yjy-teach-oss.oss-cn-beijing.aliyuncs.com/miniapp/slider.png" mode="" class="start-icon" />
+      <text class="start">本周六开始</text>
+    </view>
+  </view>
+
+  <view class="item2">
+    <image src="https://yjy-teach-oss.oss-cn-beijing.aliyuncs.com/miniapp/slider.png" mode="" class="img" />
+    <view class="desc">摄影兴趣班- 7天教会你精通摄影，培养孩子兴趣从娃娃抓起</view>
+    <view class="btn">免费</view>
+    <view class="section">
+      <view class="count-section">
+        <image class="count-icon" src="https://yjy-teach-oss.oss-cn-beijing.aliyuncs.com/miniapp/slider.png" />
+        <text class="count">200人已报名</text>
+      </view>
+      <view class="start-section">
+        <image src="https://yjy-teach-oss.oss-cn-beijing.aliyuncs.com/miniapp/slider.png" mode="" class="start-icon" />
+        <text class="start">本周六开始</text>
+      </view>
+    </view>
+  </view>
+
+  <view class="item2">
+    <image src="https://yjy-teach-oss.oss-cn-beijing.aliyuncs.com/miniapp/slider.png" mode="" class="img" />
+    <view class="desc">摄影兴趣班- 7天教会你精通摄影，培养孩子兴趣从娃娃抓起</view>
+    <view class="btn">免费</view>
+    <view class="section">
+      <view class="count-section">
+        <image class="count-icon" src="https://yjy-teach-oss.oss-cn-beijing.aliyuncs.com/miniapp/slider.png" />
+        <text class="count">200人已报名</text>
+      </view>
+      <view class="start-section">
+        <image src="https://yjy-teach-oss.oss-cn-beijing.aliyuncs.com/miniapp/slider.png" mode="" class="start-icon" />
+        <text class="start">本周六开始</text>
+      </view>
+    </view>
+  </view>
+</view>

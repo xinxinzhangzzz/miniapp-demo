@@ -1,0 +1,11 @@
+
+<!-- 1.普通页面跳转 -->
+<navigator url="/pages/test/index">测试</navigator>
+
+<!-- 2.tabbar页面跳转 -->
+<navigator url="/pages/home/index" open-type="switchTab">测试2</navigator>
+
+<!-- 3.替换当前页面,不能返回上个页面 -->
+<navigator url="/pages/home/index" open-type="redirect">测试3</navigator>
+
+
